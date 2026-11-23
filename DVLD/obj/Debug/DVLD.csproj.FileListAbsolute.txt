@@ -127,3 +127,4 @@ H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser
 H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
 H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
 H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.Login.frmLogin.resources

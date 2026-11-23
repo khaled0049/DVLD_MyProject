@@ -9,6 +9,7 @@
 //using DVLD.Licenses.International_License;
 //using DVLD.Login;
 using DVLD.Classes;
+using DVLD.Login;
 using DVLD.People;
 using DVLD.User;
 
@@ -24,12 +25,12 @@ namespace DVLD
 
     public partial class frmMain : Form
     {
-      //  frmLogin _frmLogin;
+       frmLogin _frmLogin;
 
-        public frmMain( )
+        public frmMain(frmLogin frm )
         {
             InitializeComponent();
-          //  _frmLogin= frm;
+           _frmLogin= frm;
 
         }
 
