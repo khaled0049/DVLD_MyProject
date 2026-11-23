@@ -8,9 +8,11 @@
 //using DVLD.Licenses;
 //using DVLD.Licenses.International_License;
 //using DVLD.Login;
+using DVLD.Applications;
 using DVLD.Classes;
 using DVLD.Login;
 using DVLD.People;
+using DVLD.Tests;
 using DVLD.User;
 
 //using DVLD.Tests;
@@ -83,14 +85,14 @@ namespace DVLD
 
         private void manageApplicationTypesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //frmManageApplicationTypes frm = new frmManageApplicationTypes();
-            //frm.ShowDialog();
+            frmManageApplicationTypes frm = new frmManageApplicationTypes();
+            frm.ShowDialog();
         }
 
         private void manageTestTypesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //frmListTestTypes frm = new frmListTestTypes();
-            //frm.ShowDialog();
+            frmListTestTypes frm = new frmListTestTypes();
+            frm.ShowDialog();
         }
 
         private void internationalLicenseToolStripMenuItem_Click(object sender, EventArgs e)

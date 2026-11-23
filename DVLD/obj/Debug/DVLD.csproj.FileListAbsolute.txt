@@ -128,3 +128,7 @@ H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmChangePasswor
 H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
 H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
 H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+H:\Projects\C# Level 19\DVLD_MYProject\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
