@@ -134,8 +134,8 @@ namespace DVLD
 
         private void manageLocalDrivingLicenseApplicationsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //frmListLocalDrivingLicesnseApplications frm = new frmListLocalDrivingLicesnseApplications();
-            //frm.ShowDialog();
+            frmListLocalDrivingLicesnseApplications frm = new frmListLocalDrivingLicesnseApplications();
+            frm.ShowDialog();
 
         }
 
