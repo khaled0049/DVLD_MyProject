@@ -45,9 +45,11 @@
     <Compile Include="clsApplication.cs" />
     <Compile Include="clsCountryData.cs" />
     <Compile Include="clsDataAccessSettings.cs" />
+    <Compile Include="clsLocalDrivingLicenseApplication.cs" />
     <Compile Include="clsPersonData.cs" />
     <Compile Include="clsTestType.cs" />
     <Compile Include="clsUserData.cs" />
+    <Compile Include="LicenseClasses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

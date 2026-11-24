@@ -9,6 +9,7 @@
 //using DVLD.Licenses.International_License;
 //using DVLD.Login;
 using DVLD.Applications;
+using DVLD.Applications.LocalDrivingLicenseApplication;
 using DVLD.Classes;
 using DVLD.Login;
 using DVLD.People;
@@ -38,8 +39,8 @@ namespace DVLD
 
         private void localLicenseToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //frmAddUpdateLocalDrivingLicesnseApplication frm = new frmAddUpdateLocalDrivingLicesnseApplication();
-            //frm.ShowDialog();
+            frmAddUpdateLocalDrivingLicesnseApplication frm = new frmAddUpdateLocalDrivingLicesnseApplication();
+            frm.ShowDialog();
         }
 
         private void peopleToolStripMenuItem_Click(object sender, EventArgs e)

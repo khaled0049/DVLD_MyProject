@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build files
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Credentials
+UserCredentials.txt
